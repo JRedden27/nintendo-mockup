@@ -1,0 +1,47 @@
+#navbar {
+    height: 50px;
+    border-bottom-style: solid;
+    border-color: lightgrey;
+    border-width: 2px;
+}
+
+.navBarRow {
+    text-align: right;
+}
+
+#logo {
+    height: 2.7rem;
+    width: 6rem;
+}
+
+#brand {
+    background-color: #E70009;
+    width: 150px;
+    margin-left: -20px;
+}
+
+#search {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom-color: black;
+    border-bottom-width: 1.5px;
+    border-radius: 0;
+    width: 20rem;
+    font-weight: 600;
+}
+
+#search:hover {
+    border-bottom-color: #E70009;
+    color: #E70009;
+}
+
+.navLink, .d-flex, .bi {
+    color: rgb(63, 63, 63);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.navLink:hover {
+    color: #E70009;
+}

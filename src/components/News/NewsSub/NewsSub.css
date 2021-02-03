@@ -1,0 +1,50 @@
+.newsSubCard {
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newsSubBody {
+    text-align: left;
+    width: 18rem;
+}
+
+.newsSubImg {
+    margin-bottom: 15px;
+    width: 18rem;
+    border-radius: .5rem;
+}
+
+.newsSubImg:hover {
+    filter: brightness(60%);
+}
+
+.newsSubDate {
+    font-weight: 300;
+}
+
+.newsSubLink {
+    color: #E70009;
+    font-weight: 700;
+}
+
+.newsSubLink:hover {
+    color: #960005;
+    border-bottom-style: solid;
+    border-bottom-color: #960005;
+}
+
+.newsSubButton {
+    background-color: #E70009;
+    height: 44px;
+    width: 356px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.newsSubButton:hover {
+    background-color: #850004;
+    height: 54px;
+    width: 366px;
+    margin-bottom: -10px;
+}

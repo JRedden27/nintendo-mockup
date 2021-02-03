@@ -1,0 +1,42 @@
+#cardDiv {
+    justify-content: center;
+}
+
+#adCardContainer {
+    background-color: #E70009;
+    width: 76%;
+    margin-left: 12%;
+    height: 175px;
+    justify-content: center;
+}
+
+.container {
+    justify-content: center;
+    margin-left: 100rem;
+}
+
+.switch {
+    width: 15rem;
+    float: left;
+}
+
+#cardText {
+    margin-top: 2rem;
+    color: white;
+    font-size: x-large;
+    text-align: left;
+}
+
+.adButton {
+    margin: -40px 30px 0 0;
+    float: right;
+    height: 44px;
+    width: 140.59px;
+    background-color:#8f0207;
+}
+
+.btn-danger:hover {
+    height: 54px;
+    width: 150.59px;
+    background-color:#6b0105;
+}

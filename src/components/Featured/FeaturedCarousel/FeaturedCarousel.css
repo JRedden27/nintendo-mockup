@@ -1,0 +1,23 @@
+.featuredRow {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.featuredImg {
+    border-radius: .5rem;
+}
+
+.featuredImg:hover {
+    filter: brightness(85%);
+}
+
+.availability {
+    font-size: large;
+}
+
+.console {
+    border-bottom-style: solid;
+    border-bottom-color: #E70009;
+    font-size: medium;
+    font-weight: 200;
+}

@@ -1,0 +1,46 @@
+#leftArticle {
+    margin-left: 8%;
+}
+
+#rightArticle {
+    margin-right: 22%;
+    margin-left: -8%;
+}
+
+.newsMainCard {
+    border-style: none;
+}
+
+.newsMainImg {
+    width: 35rem;
+    margin-bottom: 15px;
+    border-radius: .5rem;
+}
+
+.newsMainImg:hover {
+    filter: brightness(85%);
+}
+
+.newsMainBody {
+    width: 35rem;
+    text-align: left;
+}
+
+.newsMainDate {
+    font-weight: 300;
+}
+
+.newsMainText {
+    font-weight: 400;
+}
+
+.newsMainLink {
+    color: #E70009;
+    font-weight: 700;
+}
+
+.newsMainLink:hover {
+    color: #960005;
+    border-bottom-style: solid;
+    border-bottom-color: #960005;
+}

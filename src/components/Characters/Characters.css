@@ -1,0 +1,27 @@
+.charTitle {
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom: -20px;
+    font-size: 29.6px;
+}
+
+.charRow {
+    justify-content: center;
+}
+
+.charCard {
+    border-radius: .5rem;
+    border-style: none;
+    width: 15rem;
+    margin: auto;
+    text-align: left;
+}
+
+.charImg:hover {
+    filter: brightness(85%);
+}
+
+.subtext {
+    text-align: left;
+    margin-left: 75px;
+}

@@ -1,0 +1,44 @@
+.newReleaseRow {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.newReleaseImg {
+    border-radius: .5rem;
+}
+
+.newReleaseImg:hover {
+    filter: brightness(85%);
+}
+
+#newReleaseTitle {
+    text-align: left;
+    margin-left: 150px;
+    font-size: 28px;
+}
+
+.releaseDate {
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.gameTitle, 
+.gamePrice {
+    font-size: large;
+}
+
+.console {
+    border-bottom-style: solid;
+    border-bottom-color: #E70009;
+    font-size: medium;
+    font-weight: 200;
+}
+
+.bi-heart {
+    width: 50px;
+    color: #E70009;
+}
+
+.bi-heart:hover {
+    color:#520003
+}

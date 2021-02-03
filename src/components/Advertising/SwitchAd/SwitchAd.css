@@ -1,0 +1,24 @@
+.switchAd {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.adTitle {
+    text-align: left;
+}
+
+#adSubtitle {
+    text-align: left;
+}
+
+.switchAdButton {
+    height: 46.13px;
+    width: 235.4px;
+    background-color: #E70009
+}
+
+.switchAdButton:hover {
+    height: 56.13px;
+    width: 245.4px;
+    margin-bottom: -10px;
+}
