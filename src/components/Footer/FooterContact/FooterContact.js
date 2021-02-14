@@ -8,18 +8,18 @@ function FooterContact(props) {
     return (
         <div id="contactArea">
             <div className="row py-3 contactLinkRow">
-                <span><a href="https://www.nintendo.com/" id="contactUs" className="contactLink">
+                <span><a href="https://jredden27.github.io/nintendo-mockup/" id="contactUs" className="contactLink">
                     Contact Us
                 </a></span>
-                <span><a href="https://www.nintendo.com/" className="contactLink">
+                <span><a href="https://jredden27.github.io/nintendo-mockup/" className="contactLink">
                     Website Feedback
                 </a></span>
             </div>
             <div className="row socialMediaRow">
-                <a href="https://www.nintendo.com/" className="fa fa-facebook"></a>
-                <a href="https://www.nintendo.com/" className="fa fa-instagram"></a>
-                <a href="https://www.nintendo.com/" className="fa fa-twitter"></a>
-                <a href="https://www.nintendo.com/" className="fa fa-youtube"></a>
+                <a href="https://jredden27.github.io/nintendo-mockup/" className="fa fa-facebook"></a>
+                <a href="https://jredden27.github.io/nintendo-mockup/" className="fa fa-instagram"></a>
+                <a href="https://jredden27.github.io/nintendo-mockup/" className="fa fa-twitter"></a>
+                <a href="https://jredden27.github.io/nintendo-mockup/" className="fa fa-youtube"></a>
                 <img id="esrb" src={ESRB} alt="ESRB Certification"/>
             </div>
             <div className="row small py-4 copyrightContainer">
