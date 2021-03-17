@@ -1,4 +1,4 @@
-Web Development Project | Nintendo Mockup
+### Nintendo Mockup
 
 https://jredden27.github.io/nintendo-mockup/
 
